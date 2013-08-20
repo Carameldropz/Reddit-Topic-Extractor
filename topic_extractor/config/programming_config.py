@@ -1,0 +1,15 @@
+
+common_words = {"class", "classes", "code", "element", "change", "changes", 
+                "article", "file", "language", "languages", "programming", 
+                "author", "data", "element", "elements", "library", 
+                "libraries", "sense", "type", "number", "source", "element",
+                "elements", "program", "programs", "programmer", "programmers",
+                "add", "subtract", "button", "buttons", "link", "links", "other",
+                "others", "project", "projects", "x", "r", "base", "developer",
+                "developers", "help", "function", "functions", "method",
+                "methods", "margins", "margin", "hand", "issue", "issues",
+                "system", "systems", "line", "lines", "bug", "bugs", "problem",
+                "problems", "actions", "action", "div", "li", "means", "order",
+                "child", "children", "foundation", "experience", "text", "tool",
+                "v", "cases", "case", "category", "works", "example", "examples",
+                "tools"} 
